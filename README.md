@@ -43,40 +43,46 @@ Some children travelled only with a nanny, therefore parch=0 for them
 ## Findings and Stats
 
 > SEX
-It is evident that only 38.38 % of the population on the ship survived , rest died
-There were 109 males across the ship who survived that accident
-There were 233 females across the ship who survived that accident
+
+* It is evident that only 38.38 % of the population on the ship survived , rest died
+* There were 109 males across the ship who survived that accident
+* There were 233 females across the ship who survived that accident
 
 > Ticket class 
-It is evident that in overall, the males and females of Pclass 3 died more than others
-The males and female of Pclass 3 showed a remarkable increase in death, showing increasing trend in death as class shifts down
-Females showed a near fall down trend as expected but pclass=2 females survived less than the Pclass=3 females
-The males on contrary showed a dip in between i.e. in males who survived , Plass --> 3 > 1 > 2
-Including both the sexes, 2nd class survived less than the other two clases
-Almost all women in Pclass 1 and 2 survived and nearly all men in Pclass 2 and 3 died
+
+* It is evident that in overall, the males and females of Pclass 3 died more than others
+* The males and female of Pclass 3 showed a remarkable increase in death, showing increasing trend in death as class shifts down
+* Females showed a near fall down trend as expected but pclass=2 females survived less than the Pclass=3 females
+* The males on contrary showed a dip in between i.e. in males who survived , Plass --> 3 > 1 > 2
+* Including both the sexes, 2nd class survived less than the other two clases
+* Almost all women in Pclass 1 and 2 survived and nearly all men in Pclass 2 and 3 died
 
 > Embarked
-This shows that those who were embarked S survived more than those who were embarked C and then Q
-Most of the people who died were embarked S
-Also, people survived with embarked Q were mostly from Plass 3 females
-survived axis shows the % which means embarked Q males in Pclass 1 and 2 all died
-embarked females in Pclass 1 and 2 all lived
+
+* This shows that those who were embarked S survived more than those who were embarked C and then Q
+* Most of the people who died were embarked S
+* Also, people survived with embarked Q were mostly from Plass 3 females
+* survived axis shows the % which means embarked Q males in Pclass 1 and 2 all died
+* embarked females in Pclass 1 and 2 all lived
 
 > AGE
-All female in Pclass 3 and Age_bin = 5 died
-Males in Age_bin >= 2 and Pclass died more than survived or died greater than 50%
+
+* All female in Pclass 3 and Age_bin = 5 died
+* Males in Age_bin >= 2 and Pclass died more than survived or died greater than 50%
 
 > Siblings and Spouse
-Females in Pclass 1 and 2 with siblings upto 3 nearly all survived
-For Pclass 3 , males and females showed a near decreasing trend as number of siblings increased
-For males, no survival rate above 0.5 for any values of SibSp(less than 50%)
+
+* Females in Pclass 1 and 2 with siblings upto 3 nearly all survived
+* For Pclass 3 , males and females showed a near decreasing trend as number of siblings increased
+* For males, no survival rate above 0.5 for any values of SibSp(less than 50%)
 
 > Partents or Children
-For males, all survival rates below 0.5 for any values of Parch, except for Parch = 2 and Pclass = 1
-Maximum people are travelling with no siblings
-More people were travelling with only their 1 parent rather than 2
-Maximum population on the ship was aged between 15 yrs to 50 yrs
-Most of the people only paid upto 50 as their fare
+
+* For males, all survival rates below 0.5 for any values of Parch, except for Parch = 2 and Pclass = 1
+* Maximum people are travelling with no siblings
+* More people were travelling with only their 1 parent rather than 2
+* Maximum population on the ship was aged between 15 yrs to 50 yrs
+* Most of the people only paid upto 50 as their fare
 
 ## Algorithms for predicting the survival
 
